@@ -4,32 +4,32 @@ import profile2 from '../assets/profile2.png'
 export const TestimonialsData = [
     {
         image : profile1,
-        comment: " Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        name: "John Alendon"
+        comment: "Msika App is the best ecommerce website that i ever visited,its simple yet nice user interface and experience makes the whole process of purchasing an item easier",
+        name: "Graca Mwalabu"
     },
     {
         image : profile2,
-        comment: " Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        name: "Natasha"
+         comment: "Msika App is the best ecommerce website that i ever visited,its simple yet nice user interface and experience makes the whole process of purchasing an item easier",
+        name: "Daisy Thomas"
     },
     {
         image : profile1,
-        comment: " Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        name: "Alex Hormonzi"
+         comment: "Msika App is the best ecommerce website that i ever visited,its simple yet nice user interface and experience makes the whole process of purchasing an item easier",
+        name: "Setrida Unyolo"
     },
     {
         image : profile1,
-        comment: " Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        name: "John Alendon"
+         comment: "Msika App is the best ecommerce website that i ever visited,its simple yet nice user interface and experience makes the whole process of purchasing an item easier",
+        name: "Nissie "
     },
     {
         image : profile2,
-        comment: " Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        name: "Natasha"
+         comment: "Msika App is the best ecommerce website that i ever visited,its simple yet nice user interface and experience makes the whole process of purchasing an item easier",
+        name: "Enerst"
     },
     {
         image : profile1,
-        comment: " Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        name: "Alex Hormonzi"
+         comment: "Msika App is the best ecommerce website that i ever visited,its simple yet nice user interface and experience makes the whole process of purchasing an item easier",
+        name: "Richard"
     }
 ]
